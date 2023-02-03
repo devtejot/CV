@@ -1,0 +1,18 @@
+
+body {
+    background-color: #EAFDFC;
+    font-family: Tahoma, sans-serif;
+}
+
+hr {
+    border: none;
+    border-top: 3px dotted #BFEAF5;
+    height: 0px;
+    width: 100%;
+  }
+
+  .Contect,.Education,.Skills{
+    width: 100%;
+  }
+
+  
